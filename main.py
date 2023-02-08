@@ -59,5 +59,3 @@ if __name__ == '__main__':
 
         tree = ET.ElementTree(root)
         tree.write("breakpoint-unlimnt-fidavista-2021.01.xml")
-
-        print(un)
